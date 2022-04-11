@@ -7,6 +7,6 @@ font-family: 'Oxygen', sans-serif;
 h2, h3 {
 font-family: 'Paytone One', sans-serif;
 }
-p {
+p, a {
 font-family: 'Overpass', sans-serif;
 }
