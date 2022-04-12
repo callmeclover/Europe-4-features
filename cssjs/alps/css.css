@@ -1,1 +1,13 @@
-
+html {
+  color: white;
+background-color: #272F52;
+}
+h1 {
+font-family: 'Oxygen', sans-serif;
+}
+h2, h3 {
+font-family: 'Paytone One', sans-serif;
+}
+p, a {
+font-family: 'Overpass', sans-serif;
+}
