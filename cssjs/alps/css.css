@@ -1,5 +1,6 @@
 html {
   color: white;
+  text-align: center;
 background-color: #272F52;
 }
 h1 {
@@ -8,6 +9,6 @@ font-family: 'Oxygen', sans-serif;
 h2, h3 {
 font-family: 'Paytone One', sans-serif;
 }
-p, a {
+p, a, strong {
 font-family: 'Overpass', sans-serif;
 }
